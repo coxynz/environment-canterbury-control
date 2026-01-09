@@ -1,0 +1,5 @@
+{
+  "name": "Environment Canterbury Control",
+  "description": "Touchpanel interface for Room Control (Peace/War modes)",
+  "requestFramePermissions": []
+}
